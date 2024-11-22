@@ -1,0 +1,86 @@
+body{
+  background-color: rgb(190, 186, 186);
+  font-family: "Roboto";
+ 
+}
+.container{
+  background-color: white;
+  width: 350px;
+  height: 400px;
+ border-radius: 7px;
+ padding: 5px 0px 5px 5px;
+ margin: auto;
+ margin-top:130px;   
+
+
+}
+h1{
+  padding-left: 130px;
+}
+form{
+  width: 250px;
+  margin-left: 35px;
+
+}
+
+form label{
+  display: flex;
+margin-top: 5px;
+font-size: 17px;
+
+}
+form input{
+
+width: 100%;
+padding: 7px;
+border: 1px solid rgb(175, 171, 171);
+ border-radius: 5px;
+}
+
+.remember{
+
+display: inline;
+}
+.remember a{
+text-decoration: none;
+float: right;
+
+}
+.remember input{
+margin-left: 35px;
+
+}
+.log-button{
+width: 265px;
+padding: 7px;
+border: 1px solid gray;
+border-radius: 5px;
+font-size: 15px;
+margin-left: 35px;
+margin-top: 8px;
+color: white;
+background-color: lightseagreen;
+
+}
+.form{
+width: 300px;
+}
+.para1{
+text-align: center;
+padding-left: 36px;
+}
+.para2{
+  text-align: center;
+  padding-left: 50px;
+ 
+}
+.para2 a{
+text-decoration: none;
+}
+.logo{
+width: 25px;
+height: 25px;
+object-fit: cover;
+border-radius: 12.5px;
+padding-left: 150px;
+}

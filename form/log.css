@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(190, 186, 186);
+  font-family:'ROboto' , sans-serif;
+}
+.container{
+border: 1px solid gray;
+width: 400px;
+ height: 620px;
+ margin: auto;
+ margin-top: 20px;
+background-color: white;
+ border-radius: 6px;
+} 
+h1{
+text-align: center;
+padding: 15px;
+}
+form{
+width: 300px;
+margin-left: 36px;
+}
+form label{
+display:flex;
+margin-top: 20px;
+font-size: 17px;
+}
+form input{
+width: 100%;
+padding: 7px;
+border: npne;
+border: 1px solid gray;
+border-radius: 6px;
+outline: none;
+}
+input[type="button"]{
+width: 320px;
+height: 35px;
+margin-top: 20px;
+border: none;
+background-color: lightseagreen;
+color: white;
+font-size: 18px;
+}
+p{
+text-align: center;
+padding-top: 20px;
+font-size: 15px;
+}
+p a{
+text-decoration: none;
+}
